@@ -1,10 +1,4 @@
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-#### 💫 About Me:
+# 💫 About Me:
 🔭 I am currently working on a task<br>👯 I want to collaborate with anyone<br>🤝 I am looking for help<br>🌱 I am currently studying a subject<br>💬 Ask me anything<br>⚡ Interesting facts about humans
 
 
