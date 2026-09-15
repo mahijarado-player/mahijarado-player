@@ -8,3 +8,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=mahijarado-player&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mahijarado-player&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahijarado-player&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahijarado-player/mahijarado-player/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
